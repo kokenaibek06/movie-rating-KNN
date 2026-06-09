@@ -181,13 +181,13 @@ for i in range(0, len(distances.flatten())):
 Example output:
 
 ```text
-Recommendations for Toy Story (1995):
+Recommendations for 2001: A Space Odyssey (1968):
 
-1: Aladdin (1992), with distance of 0.35
-2: Lion King, The (1994), with distance of 0.38
-3: Jurassic Park (1993), with distance of 0.42
-4: Back to the Future (1985), with distance of 0.45
-5: Jumanji (1995), with distance of 0.47
+1: Alien (1979), with distance of 0.3658532837052536:
+2: Blade Runner (1982), with distance of 0.37560935880938506:
+3: Aliens (1986), with distance of 0.3957780376034593:
+4: Terminator, The (1984), with distance of 0.3965295810843581:
+5: Star Wars: Episode V - The Empire Strikes Back (1980), with distance of 0.41133525377307567:
 ```
 
 ## Technologies Used

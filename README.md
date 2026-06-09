@@ -1,7 +1,5 @@
-# movie-rating-KNN
-The main goal of this project is to recommend similar movies based on user rating behavior.
-
 Movie Recommendation System using KNN
+
 This project is a movie recommendation system built with Python and Machine Learning.
 The main goal of this project is to recommend similar movies based on user rating behavior.
 The system uses collaborative filtering and K-Nearest Neighbors (KNN) with cosine distance to find movies that are similar to each other.
